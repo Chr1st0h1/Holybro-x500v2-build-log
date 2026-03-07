@@ -6,7 +6,8 @@ This section details the electronic speed controller (ESC) configuration for the
 *   **Frame:** Holybro x500v2
 *   **Flight Controller:** Pixhawk 6C Mini (PX4 Firmware)
 *   **Motor:** T-Motor Air Gear KV920 (9N12P)
-*   **ESC Firmware:** AM32
+*   **ESC Firmware:** Tekko32_4IN1_F421
+*   **ESC Firmware Version:** 2.20
 
 ## AM32 Configuration Settings
 
